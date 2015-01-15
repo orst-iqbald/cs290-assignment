@@ -1,0 +1,37 @@
+tr#grn{
+  background: lightgreen
+}
+tr#blue{
+  background: lightblue
+}
+td#firstcol{
+  color: red;
+}
+td#thirdcol{
+  color: blue;
+}
+th#unbold{
+  font-weight: normal;
+  font-style: italic;
+}
+div.purple:hover{
+  background: purple;
+}
+dt#white:hover{
+  background: white;
+}
+div#white:hover{
+  background: white;
+}
+div.outer-content{
+  width:75%;
+  padding: 20px;
+  background:pink;
+}
+div.inner-content{
+  text-align: center;
+  background:lightblue;
+}
+div#floating{
+  float:left;
+}
